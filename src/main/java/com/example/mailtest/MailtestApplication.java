@@ -7,6 +7,9 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class MailtestApplication {
 
 	public static void main(String[] args) {
+
+		System.out.println("AAA");
+
 		SpringApplication.run(MailtestApplication.class, args);
 	}
 
