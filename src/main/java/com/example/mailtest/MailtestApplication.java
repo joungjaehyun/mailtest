@@ -18,6 +18,8 @@ public class MailtestApplication {
 		System.out.println("AAA");
 
 		System.out.println("AAA");
+		System.out.println("AAA");
+		System.out.println("AAA");
 
 		SpringApplication.run(MailtestApplication.class, args);
 	}
